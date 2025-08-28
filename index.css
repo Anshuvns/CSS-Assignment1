@@ -1,0 +1,29 @@
+h1{
+    color: red;
+}
+h2{
+ color: greenyellow;
+}
+
+p{
+    color: brown;
+    font-weight: bolder;
+}
+h6{
+    color:brown;
+}
+h5{
+    color: brown;
+
+
+} 
+ul{
+    color: brown;
+    font-weight: lighter;
+    letter-spacing: 5px;
+    
+    
+}
+ol{
+    
+}
